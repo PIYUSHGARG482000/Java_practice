@@ -1,0 +1,23 @@
+package pactice_questions;
+
+public class isomorphic_string {
+
+	
+	
+	
+	
+	
+	
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		String a = "egg";
+		String b = "add";
+		
+		//Programme to check two Strings are isomorphic
+		//A string is said to be isomorphic if we change a character in a string then it will 
+		//become string b.
+		
+		
+	}
+
+}
